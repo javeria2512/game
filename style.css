@@ -1,0 +1,46 @@
+body{
+	font-size: 1.2em;
+	background-image: url(img.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 160vh;
+	background-repeat: no-repeat;
+	margin: auto;
+
+}
+
+#cantainer{
+	margin: 0 auto;
+	max-width: 80%;
+	text-align: center;
+	border-radius: 10px;
+	padding: 10px;
+	background-color: #b34daa;
+	opacity: 0.98;
+}
+
+.panel{
+	margin: 20px auto;
+	max-width: 80%;
+	border-radius: 10px;
+	padding: 10px;
+	background-color: #eee;
+}
+button{
+	background-color: #eb97f3;
+	height: 3em;
+	width: 80%;
+	margin-bottom: 1.3em;
+	border-radius: 10px;
+	font-size: 0.8em;
+}
+input{
+	width: 80%;
+	border-radius: 10px;
+	height: 4em;
+	text-align: center;
+}
+
+#easybtn , #hardbtn , #gameOver{
+	color: black;
+}
